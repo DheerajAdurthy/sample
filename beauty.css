@@ -1,0 +1,16 @@
+.main-container{
+    height: 100vh;
+    width:100vw;
+    background-color:floralwhite;
+    text-align: center;
+    padding-top: 5px;
+}
+.head{
+    color:rgb(182, 79, 79);
+    font-family: 'Times New Roman', Times, serif;
+}
+.main-head{
+    color:midnightblue;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
